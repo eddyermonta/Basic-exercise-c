@@ -1,0 +1,35 @@
+# Archivos de configuración de Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Archivos de publicación
+publish/
+out/
+
+# Archivos de configuración de usuario
+*.config
+*.vsconfig
+
+# Archivos de log
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
